@@ -29,6 +29,7 @@ p {
     height: 46vw;
     width: 100%;
     object-fit: cover;
+    padding: 10%;
 }
 
 .h1 {
@@ -339,4 +340,29 @@ a.boton:hover:before {
     .flex {
         display: block;
     }
+    h2 {
+        text-align: center;
+    }
+    .boton {
+margin-left: 25%;}
+
+.section1 {
+    width: 80%;
+    height: 100%;
+    margin-left: 10%;
+}
+
+.imgc1{
+    width: 100%;
+    height: 100%;
+}
+
+.imgc2{
+    width: 100%;
+    height: 100%;
+}
+.video {
+    margin-left: 20%;
+}
+
 }
